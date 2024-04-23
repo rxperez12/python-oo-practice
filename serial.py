@@ -20,7 +20,7 @@ class SerialGenerator:
 
     def __init__(self, start=100):
         """Create serial number generator with a start value"""
-        self.start = start
+        self.start = start  # you can chain your equalities in python!
         self.current_num = self.start
 
     def generate(self):

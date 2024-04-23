@@ -1,0 +1,10 @@
+cat
+dog
+porcupine
+hello
+world
+luke
+I
+am
+your
+father
